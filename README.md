@@ -24,3 +24,7 @@ pip install -U openai-whisper
 ### Install rust in case tiktoken does not provide a pre-built wheel for platform
 
 pip install setuptools-rust
+
+### Install pydub
+
+pip install pydub
